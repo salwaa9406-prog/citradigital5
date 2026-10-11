@@ -1,0 +1,26 @@
+GROUND TRUTH: 571012022000056
+
+Original:
+1571012022000056
+Karakter benar: 4
+Akurasi: 26.67%
+
+Mean Filter:
+1571012022000056
+Karakter benar: 4
+Akurasi: 26.67%
+
+Median Filter:
+1571012022000056
+Karakter benar: 4
+Akurasi: 26.67%
+
+Gaussian Filter:
+1571012022000056
+Karakter benar: 4
+Akurasi: 26.67%
+
+Sharpening:
+571012022000056
+Karakter benar: 15
+Akurasi: 100.00%

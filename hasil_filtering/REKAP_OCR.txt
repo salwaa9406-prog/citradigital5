@@ -1,0 +1,146 @@
+GROUND TRUTH: 571012022000056
+====================================================================================================
+
+GAMBAR: foto.jpg
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto.jpg
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto1
+====================================================================================================
+Original       : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     :  | Benar: 0 | Akurasi: 0.00%
+
+GAMBAR: foto1
+====================================================================================================
+Original       : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     :  | Benar: 0 | Akurasi: 0.00%
+
+GAMBAR: foto2
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 3430333035711012022000056 | Benar: 1 | Akurasi: 6.67%
+
+GAMBAR: foto2
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 3430333035711012022000056 | Benar: 1 | Akurasi: 6.67%
+
+GAMBAR: foto3
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto3
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto4
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto4
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto5
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto5
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto6
+====================================================================================================
+Original       : 11571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto6
+====================================================================================================
+Original       : 11571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto7
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Median Filter  : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto7
+====================================================================================================
+Original       : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Mean Filter    : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Median Filter  : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+
+GAMBAR: foto8
+====================================================================================================
+Original       : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+
+GAMBAR: foto8
+====================================================================================================
+Original       : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Mean Filter    : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Median Filter  : 571012022000056 | Benar: 15 | Akurasi: 100.00%
+Gaussian Filter: 1571012022000056 | Benar: 4 | Akurasi: 26.67%
+Sharpening     : 1571012022000056 | Benar: 4 | Akurasi: 26.67%
